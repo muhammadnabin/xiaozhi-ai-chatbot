@@ -117,17 +117,6 @@ esptool.py --chip esp32s3 --port <PORT> --baud 460800 \
 
 ---
 
-## 👤 Credits & Author
-
-| Role | Name |
-|---|---|
-| **Project Author** | Muhammad Nabin |
-| **Circuit Diagrams** | Muhammad Nabin |
-| **Firmware** | Muhammad Nabin |
-| **Hardware Documentation** | Muhammad Nabin |
-
----
-
 ## 📄 License
 
 This project is licensed under the terms described in [LICENSE](./LICENSE).
